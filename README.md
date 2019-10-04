@@ -1,5 +1,6 @@
 # cricket_website
-Setup for Project
+###Setup for Project
+
 1.Grab a copy of the project.
 git clone https://github.com/rajeshr007/cricket_task.git
 2.Create a virtual environment and install dependencies.
